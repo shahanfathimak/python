@@ -1,0 +1,5 @@
+def sums(a,b):
+    result=a+b
+    print(result)
+
+sums(3,6)
